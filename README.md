@@ -25,5 +25,4 @@ You can Either, Perform an MITM attack on the Network or just open the Link on y
 
 _Created using
 Python [Flask](http://flask.pocoo.org/)
-Python [Colorama](https://pypi.org/project/colorama/)
-_
+Python [Colorama](https://pypi.org/project/colorama/)_
