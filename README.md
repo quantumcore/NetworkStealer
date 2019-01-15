@@ -8,7 +8,11 @@
           </p>
 </p>
 
-<p align="center">
-          <strong>Created Using</strong><br>
-<img src="http://flask.pocoo.org/static/logo/flask.png" height=150px width=300px>
-</p>
+
+# Quick Run on Linux/Windows
+1. Clone the Repository
+2. In Cmd/Terminal, Type the following;
+```bash
+cd NetworkStealer
+python3 ns.py
+```
