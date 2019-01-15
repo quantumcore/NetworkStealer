@@ -6,8 +6,9 @@
           <p align="center">
   <strong>LAN Phishing Framework for Facebook, Gmail, Twitter, WiFi, Windows.</strong>
           </p>
-          
-          <p align="center">
-          <strong>Created Using <img src="http://flask.pocoo.org/static/logo/flask.png" height=100px width=100px></strong>
-          </p>
+</p>
+
+<p align="center">
+          <strong>Created Using</strong><br>
+<img src="http://flask.pocoo.org/static/logo/flask.png" height=150px width=300px>
 </p>
