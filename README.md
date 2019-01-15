@@ -1,5 +1,5 @@
 <p align="center">
-          <img src="https://www.upload.ee/image/9428938/nsicon.png">
+          <img src="https://www.upload.ee/image/9428938/nsicon.png" height=250px width=250px>
 </p>
 <p>
           <h1 align="center">NetworkStealer</h1>
