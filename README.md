@@ -24,5 +24,4 @@ You will be prompted to choose a Template, In which, Available one's are Faceboo
 You can Either, Perform an MITM attack on the Network or just open the Link on your Phone and just ask them to Login or Fix the Problem.
 
 _Created using
-Python [Flask](http://flask.pocoo.org/)
-Python [Colorama](https://pypi.org/project/colorama/)_
+Python [Flask](http://flask.pocoo.org/) and Python [Colorama](https://pypi.org/project/colorama/)_
