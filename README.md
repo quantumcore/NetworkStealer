@@ -21,7 +21,15 @@ python3 ns.py
 NS (Network Stealer) is a Software that you can use to start a LAN Server with the IP of the system running the Server. 
 You will be prompted to choose a Template, In which, Available one's are Facebook, Gmail, Wifi, Windows, Twitter.
 
-You can Either, Perform an MITM attack on the Network or just open the Link on your Phone and just ask them to Login or Fix the Problem.
+You can Either, Perform an DNS Spoofing attack on the Network or just open the Link on your Phone and just ask them to Login or Fix the Problem.
+
+# Bugs & Errors
+This Project is still in development. There may be alot of Errors that I don't know of. If you stumbled upon an Error, Please Report it. _PS : I would really appreciate if you would Contribute._
+
+# Contact
+*Fahad Mustafa*
+[Website](http://fahadm.co.nf)
 
 _Created using
 Python [Flask](http://flask.pocoo.org/) and Python [Colorama](https://pypi.org/project/colorama/)_
+
