@@ -1,1 +1,84 @@
+body{
+  font-family: "Trebuchet MS";
+  background-color: white;
+}
 
+.wifi-button
+{
+  background-color: #555555; /* Black */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition: all 0.2 ease-in-out;
+  font-weight: bold;
+}
+
+.wifi-button:hover
+{
+  background-color: blueviolet; /* White */
+  color: white;
+  box-shadow: 0 5px 15px blueviolet;
+}
+
+.input{
+    border: 2px solid rgb(31, 31, 31);
+    border-radius: 4px;
+    width: 10%;
+    padding: 12px 20px;
+}
+
+/* Same as above but changing width. */
+.win-input{
+  border: 2px solid rgb(31, 31, 31);
+  border-radius: 4px;
+  width: 15%;
+  padding: 12px 20px;
+}
+
+.secondary-input{
+  border: 2px solid rgb(31, 31, 31);
+  border-radius: 4px;
+  width: 20%;
+  padding: 12px 20px;
+}
+
+.windows-button
+{
+  background-color: #555555; /* Black */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition: all 0.2 ease-in-out;
+  font-weight: bold;
+}
+
+
+
+.windows-button:hover
+{
+  background-color: dodgerblue; /*  */
+  color: white;
+  box-shadow: 0 5px 15px dodgerblue;
+}
+
+.facebook-button
+{
+  background-color: white;; /* Black */
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition: all 0.2 ease-in-out;
+  font-weight: bold;
+}
