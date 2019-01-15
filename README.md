@@ -27,7 +27,7 @@ You can Either, Perform an DNS Spoofing attack on the Network or just open the L
 This Project is still in development. There may be alot of Errors that I don't know of. If you stumbled upon an Error, Please Report it. _PS : I would really appreciate if you would Contribute._
 
 # Contact
-*Fahad Mustafa*
+*Fahad Mustafa* -
 [Website](http://fahadm.co.nf)
 
 _Created using
