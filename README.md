@@ -28,7 +28,7 @@ This Project is still in development. There may be alot of Errors that I don't k
 
 # Contact
 *Fahad Mustafa* -
-[Website](http://fahadm.co.nf)
+[Website](https://fahad-m.github.io)
 
 _Created using
 Python [Flask](http://flask.pocoo.org/) and Python [Colorama](https://pypi.org/project/colorama/)_
