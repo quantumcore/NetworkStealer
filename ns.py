@@ -188,7 +188,7 @@ def __main__():
     |_||__|___| |_| !_| |_!|__/|_|_|_||_|      |___/ |_| |___|_||_|___|___|_|_|
 
     | Author : Lynx
-    | Web : http://fahadm.co.nf
+    | Web : https://fahad-m.github.io
     | Discord Server : https://discordapp.com/invite/8snh7nx
     """ + Fore.RED + """| If the View is Bugged. Please Maximize Console to full screen.\n\n""" + Style.RESET_ALL)
     # Almost all of my Programs contain this format lol
