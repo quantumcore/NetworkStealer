@@ -2,7 +2,7 @@
           <img src="https://www.upload.ee/image/9428938/nsicon.png" height=250px width=250px>
 </p>
 <p>
-          <h1 align="center">NetworkStealer (Final)</h1>
+          <h1 align="center">NetworkStealer</h1>
           <p align="center">
   <strong>LAN Phishing Framework for Facebook, Gmail, Twitter, WiFi, Windows.</strong>
           </p>
@@ -26,9 +26,12 @@ You can Either, Perform an DNS Spoofing attack on the Network or just open the L
 # Bugs & Errors
 This Project is still in development. There may be alot of Errors that I don't know of. If you stumbled upon an Error, Please Report it. _PS : I would really appreciate if you would Contribute._
 
+# TODO 
+- Add WPA Password checker.
+
 # Contact
-*Fahad Mustafa* -
-[Website](https://fahad-m.github.io)
+*Fahad* -
+[Website](https://quantumcore.github.io)
 
 _Created using
 Python [Flask](http://flask.pocoo.org/) and Python [Colorama](https://pypi.org/project/colorama/)_
