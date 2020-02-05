@@ -36,3 +36,5 @@ This Project is still in development. There may be alot of Errors that I don't k
 _Created using
 Python [Flask](http://flask.pocoo.org/) and Python [Colorama](https://pypi.org/project/colorama/)_
 
+# NOTE
+I am not responsible for any sort of misuse or damage caused by the program. This was created for demonstrations and presentations regarding 'Social Engineering & Phishing'. 
