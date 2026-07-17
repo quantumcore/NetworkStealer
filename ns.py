@@ -30,7 +30,7 @@ def __main__():
     try:
         config.read("settings.ini")
     except Exception as e:
-        print("Error Occured : " + e)
+        print("Error Occurred : " + e)
         print("May be the Configuration File has been deleted?")
         input("")
         exit(1)
